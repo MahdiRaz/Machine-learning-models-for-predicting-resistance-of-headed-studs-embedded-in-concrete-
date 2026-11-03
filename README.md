@@ -1,0 +1,1 @@
+# Machine-learning-models-for-predicting-resistance-of-headed-studs-embedded-in-concrete-
